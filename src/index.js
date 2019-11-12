@@ -12,8 +12,8 @@ class App extends Component {
         <React.Fragment>
         <MDBContainer>
             <MDBRow>
-            <MDBCol lg="6">Left column</MDBCol>
-            <MDBCol lg="6">Right column</MDBCol>
+            <MDBCol lg="5">Left column</MDBCol>
+            <MDBCol lg="5">Right column</MDBCol>
             </MDBRow>
         </MDBContainer>
         </React.Fragment>
