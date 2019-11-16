@@ -113,7 +113,7 @@ class App extends Component {
               </MDBRow>
             </MDBCol>
             <MDBCol md="3">
-              <h3 className="text-uppercase my-3">Schedule</h3>
+              <h2 className="text-uppercase my-3">Schedule</h2>
               <h6 className="my-3">
                 It's going to be busy that today. You have{" "}
                 <b>{this.state.events.length} events </b> today.
